@@ -37,49 +37,49 @@ export function MainNav() {
 
       <SidebarMenu>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#" isActive>
+          <SidebarMenuButton ref="#" isActive>
             <Inbox />
             Inbox
           </SidebarMenuButton>
         </SidebarMenuItem>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#">
+          <SidebarMenuButton ref="#">
             <Users />
             Social
           </SidebarMenuButton>
         </SidebarMenuItem>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#">
+          <SidebarMenuButton ref="#">
             <Tag />
             Promotions
           </SidebarMenuButton>
         </SidebarMenuItem>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#">
+          <SidebarMenuButton ref="#">
             <Bell />
             Updates
           </SidebarMenuButton>
         </SidebarMenuItem>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#">
+          <SidebarMenuButton ref="#">
             <MessageSquare />
             Forums
           </SidebarMenuButton>
         </SidebarMenuItem>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#">
+          <SidebarMenuButton ref="#">
             <Gift />
             Deals
           </SidebarMenuButton>
         </SidebarMenuItem>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#">
+          <SidebarMenuButton ref="#">
             <Archive />
             Archived
           </SidebarMenuButton>
         </SidebarMenuItem>
         <SidebarMenuItem>
-          <SidebarMenuButton href="#">
+          <SidebarMenuButton ref="#">
             <Trash2 />
             Trash
           </SidebarMenuButton>
